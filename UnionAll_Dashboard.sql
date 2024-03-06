@@ -1,4 +1,5 @@
 -- UNION ALL: HKC + HKN in single table for Q00 With Code-Value separated - used in dashboard.
+-- UNION ALL: HRC + HRN in single table for Q00 With Code-Value separated - used in dashboard.
 
 CREATE OR REPLACE VIEW UnionAllTablesIDSCode AS
 (SELECT 
